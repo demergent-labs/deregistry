@@ -1,0 +1,2 @@
+# deregistry
+Decentralized npm registry
